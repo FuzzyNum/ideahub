@@ -350,6 +350,16 @@
         "tags": "number-guessing, JavaScript, html, css"
     },
     {
+        "name": "Reinforcement-Learning",
+        "display": "Gymnasium RL",
+        "description": "Implementations of all Gymnasium Reinforcement Learning (RL) Environments in Python, utilizing Q-Learning techniques.",
+        "author": "FuzzyNum",
+        "category": "ai",
+        "level":"intermediate",
+        "site":"https://github.com/FuzzyNum/Reinforcement-Learning",
+        "tags":"python,gymnasium,unsupervised-learning,rl,ml,ai,numpy"
+    },
+    {
         "name": "Gallery",
         "display": "Image Gallery",
         "description": "A Simple Image Gallery with a Modal feature.",
